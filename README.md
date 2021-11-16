@@ -25,5 +25,5 @@ MainProgram.py is responsible for :
   <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture.PNG" alt="Gif" width="250" height="250">
 </a> 
   </p> 
- &nbsp &nbsp &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;User selecting year span and Country  
+ &nbsp &nbsp &nbsp &nbsp &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;User selecting year span and Country  
   &nbsp &nbsp Plot of the desired information

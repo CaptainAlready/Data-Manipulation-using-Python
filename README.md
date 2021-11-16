@@ -15,7 +15,7 @@ MainProgram.py is responsible for :
 * Saving the desired information(selected by the user) to .csv files and uploading it to a local MySQL database
 
 
- 
+ Bellow you can see an example of a user selecting a year span and a country as well as a plot of the desired information, selected by the user.
 
 <p align="center">
 <a>
@@ -25,5 +25,4 @@ MainProgram.py is responsible for :
   <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture.PNG" alt="Gif" width="250" height="250">
 </a> 
   </p> 
- &nbsp &nbsp &nbsp &nbsp &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;User selecting year span and Country  
-  &nbsp &nbsp Plot of the desired information
+

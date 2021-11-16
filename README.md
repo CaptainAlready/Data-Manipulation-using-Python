@@ -1,6 +1,6 @@
 # Data-Manipulationon-using-Python
 
-This project is an optional project for the CEID-course **Principles of Programming Languages and Compilers**.
+This project is an optional project for the CEID-course **Principles of Programming Languages and Compilers**. <br>
 The code depicts how to use python frameworks such as pandas , mysql.connector and matplotlib to manipulate , store and monitor relatively big chuncks of data in a small number of lines. 
 
 * <h2 style ="font-size: 0.5em"> getData.py</h2>

@@ -12,3 +12,13 @@ MainProgram.py is responsible for :
 * Handling the information contained in the .csv files using the pandas framework.
 * Creating plots that monitor the information and it's changes through a timespan of four years(selected by the user)
 * Saving the desired information(selected by the user) to .csv files and uploading it to a local MySQL database
+
+<p align="center">
+<a>
+  <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture2.PNG" alt="Gif" width="250" height="250">
+</a>
+ <a>
+  <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture.PNG" alt="Gif" width="250" height="250">
+</a> 
+  
+  </p>
